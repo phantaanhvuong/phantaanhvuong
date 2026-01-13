@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anh Vương   ![Uploading CoolFunGIF.gif…]()
+# 👋 Hi, I'm Anh Vương      ![CoolFunGIF (2)](https://github.com/user-attachments/assets/896c157e-f9f5-4e83-891b-6f4877fcc3fd)
 
 
  IT Student at CodeGym  
