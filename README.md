@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Anh Vương
 
-<!--
-**phantaanhvuong/phantaanhvuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at CodeGym  
+💻 Backend Developer (Java – Spring Boot)  
+🌱 Learning Web Application & Real-time System
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- ☕ Java, Spring Boot
+- 🌐 HTML, CSS, JavaScript
+- 🗄 MySQL
+- 🔄 Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🍽 Restaurant Management System  
+  👉 Spring Boot, Spring Security, VietQR API, Gmail SMTP, Cloudinary, HTML2Canvas, Text-to-Speech, WebSocket, AJAX
+
+- 🫡 MiniTalk
+  👉 Spring Boot, React Vite, Security OAuth2, WebSocket
+
+- 😻 Book sales and lending management
+  👉 MVC model, Thymeleaf, MySQL, Firebase, Bootstrap
+
+- 🚗 Modern car parking management
+  👉 Three-layer architecture: Frontend (ReactJS), Backend (Spring Boot), Database (MySQL), WebSocket, PlateRecognizer API, Email Service, VNPAY, OTP verification, kafka
+
+## 📫 Contact
+- Email: anhvuong1610204@gmail.com
+- Facebook: https://www.facebook.com/phantaanhvuong?locale=vi_VN
