@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anh Vương      ![CoolFunGIF (2)](https://github.com/user-attachments/assets/896c157e-f9f5-4e83-891b-6f4877fcc3fd)
+# 👋 Hi, I'm Anh Vương      
 
 
  IT Student at CodeGym  
@@ -27,4 +27,7 @@ Technologies:Three-layer architecture: Frontend (ReactJS), Backend (Spring Boot)
 ## 📫 Contact
 - Email: anhvuong1610204@gmail.com
 - Facebook: https://www.facebook.com/phantaanhvuong?locale=vi_VN
+
+
+
   ![CoolFunGIF (2)](https://github.com/user-attachments/assets/896c157e-f9f5-4e83-891b-6f4877fcc3fd)
