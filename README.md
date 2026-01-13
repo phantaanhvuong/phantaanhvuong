@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Anh Vương
-
+ ![LoveGIF](https://github.com/user-attachments/assets/061ad68b-5091-458c-a81f-00b8925d90e3)
 🎓 IT Student at CodeGym  
 💻 Backend Developer (Java – Spring Boot)  
 🌱 Learning Web Application & Real-time System
 
 ## 🛠 Tech Stack
 - ☕ Java, Spring Boot
-- 🌐 HTML, CSS, JavaScript                                                           ![LoveGIF](https://github.com/user-attachments/assets/061ad68b-5091-458c-a81f-00b8925d90e3)
-
+- 🌐 HTML, CSS, JavaScript                                                          
 - 🗄 MySQL
 - 🔄 Git, GitHub
 
