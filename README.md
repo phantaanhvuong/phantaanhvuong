@@ -30,6 +30,3 @@ Technologies:Three-layer architecture: Frontend (ReactJS), Backend (Spring Boot)
 
 
 
-![CoolFunGIF (2)](https://github.com/user-attachments/assets/896c157e-f9f5-4e83-891b-6f4877fcc3fd)
-![SmilingCatHappyCatGIF](https://github.com/user-attachments/assets/571d4ae6-b66a-4cd6-8323-3d536cedfa90)
-![WorkCatEpticonGIF](https://github.com/user-attachments/assets/c77c15c0-de4f-4422-b720-bd0e1fbdbd67)
